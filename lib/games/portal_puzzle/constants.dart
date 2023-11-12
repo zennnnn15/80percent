@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+const appName = 'Sliding Puzzle';
+const widthSmall = 600;
+const widthMedium = 1240;
+const widthLarge = 1440;
+const veryLightGreen = Color(0xFFBBF7D0);
+const lightGreen = Color(0xFF22C55E);
+const green = Color(0xFF16A34A);
+const darkGreen = Color(0xFF14532D);
+const veryLightBlue = Color(0xFFBFDBFE);
+const lightBlue = Color(0xFF3B82F6);
+const blue = Color(0xFF1D4ED8);
+const darkBlue = Color(0xFF1E3A8A);
+const veryLightViolet = Color(0xFFDDD6FE);
+const lightViolet = Color(0xFF8B5CF6);
+const violet = Color(0xFF6D28D9);
+const darkViolet = Color(0xFF4C1D95);
+const lightRose = Color(0xFFF43F5E);
+const rose = Color(0xFFBE123C);
+const darkRose = Color(0xFF881337);
+const lightSlate = Color(0xFFCBD5E1);
+const slate = Color(0xFF94A3B8);
+const darkSlate = Color(0xFF64748B);
